@@ -2,7 +2,7 @@
 
 Demo: http://rama.xp3.biz/spk/
 
-username: ramadityas
+username: ramaditya
 
 Pass: 1234
 
